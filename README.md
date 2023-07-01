@@ -1,7 +1,6 @@
 # totaal-geen-spambot
-Totaal geen spambot hoor. Nee het lijkt maar zo!
-
-Het is gewoon een handige teksttyper waarmee je heel toevallig alleen maar 1 letter per keer kan typen.
+Totaal geen spambot hoor. Nee het lijkt maar zo! Ook is het alleen voor educatieve doeleinden bedoeld!
+Ik zie het liever gewoon als een handige lettertyper waarmee je heel veel letters kan typen.
 
 Als je het ding start, dan vraagt het vier informatie dingen van je.
 
@@ -10,6 +9,10 @@ Als je het ding start, dan vraagt het vier informatie dingen van je.
 3. Moeten er enters tussen zitten? (Bijvoorbeeld als je bij Microsoft Word(C) op enter drukt, dan gaat het omlaag of als je bij discord op enter drukt, dan verstuurt dat bericht zich.
 4. Moeten er hoofdletters zijn? (Dit typt hoofdletters of kleine letters) (Let op: als je ja kiest, dan wordt caps lock geactiveerd dus als je daarna alleen hoofdletters typt, dan ligt het daar aan.
 
+Bij de eerste vraag typ je bijvoorbeeld 500 en druk je op enter.
+Er kan bij de 2e vraag maar 1 letter. Dus dan typ je bijvoorbeeld A en druk je op enter.
+Bij de laatste twee vragen kan het gewoon niet mis gaan, ze zijn al goed uitgelegd.
+
 Dat was het wel een beetje
 
-Nogmaals, dit is geen spambot en is alleen voor educatieve doeleinden bedoeld!
+Nogmaals, dit is geen spambot maar lettertyper en is alleen voor educatieve doeleinden bedoeld!
