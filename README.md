@@ -13,6 +13,10 @@ Bij de eerste vraag typ je bijvoorbeeld 500 en druk je op enter.
 Er kan bij de 2e vraag maar 1 letter. Dus dan typ je bijvoorbeeld A en druk je op enter.
 Bij de laatste twee vragen kan het gewoon niet mis gaan, ze zijn al goed uitgelegd.
 
+Oh en trouwens, dit werkt alleen op windows, omdat ik geen zin heb om me te verdiepen in MacOS/Linux system calls.
+
 Dat was het wel een beetje
 
 Nogmaals, dit is geen spambot maar lettertyper en is alleen voor educatieve doeleinden bedoeld!
+
+(Het kan zijn dat je de voorgecompileerde .exe niet vertrouwd wat wel te begrijpen is aangezien het in virustotal.com door 14 verschillende antivirussen wordt beschouwd als virus. Daarom is er ook een source code zodat je het zelf kan compileren en de code zelf kan doorlezen.)
