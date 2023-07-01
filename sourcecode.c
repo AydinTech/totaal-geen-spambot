@@ -32,6 +32,6 @@ int main() {
     }
 
     printf("\nKlaar, druk op een toets om het programma te sluiten.\n"); //dat was het dan alweer
-    system("pause"); //gewoon zodat het programma geen zelfmoord pleegt
+    system("pause"); //gewoon zodat het programma niet zomaar sluit
     return 0; //anders gaat het nooit meer afsluiten
 }
