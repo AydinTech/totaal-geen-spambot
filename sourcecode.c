@@ -30,10 +30,9 @@ int main() {
 
         keybd_event( VkKeyScan(spam), 0x00, 0, 0); //nu gaan we die letter typen
 
-        if(enter == 1) keybd_event(VK_RETURN, 0x00, 0, 0); //voor het geval dat er enters moesten zijn, dan worden die erbij gezet
-
         if(langzaam == 1) Sleep(1000); //voor als langzame modus aan staat
 
+        if(enter == 1) keybd_event(VK_RETURN, 0x00, 0, 0); //voor het geval dat er enters moesten zijn, dan worden die erbij gezet
     }
 
     printf("\nKlaar, druk op een toets om het programma te sluiten.\n"); //dat was het dan alweer
