@@ -6,6 +6,7 @@ int teller;
 char spam;
 int enter;
 int hoofdletter;
+int langzaam;
 
 int main() {
     printf("Hoe vaak moet ik spammen?\n"); //ff informatie opvragen hoor ik kan ook niet ruiken wat je wilt!
@@ -16,6 +17,8 @@ int main() {
     scanf(" %i", &enter);
     printf("Moeten het hoofdletters zijn? (Dit zet caps lock aan!) 0 = kleine letters, 1 = hoofdletters\n");
     scanf(" %i", &hoofdletter);
+    printf("Moet langzame modus aan staan? (1 seconde tussen de letters handig als er een anti spam is) 0 = nee, 1 = ja\n");
+    scanf(" %i", &langzaam);
 
     printf("\nGa binnen 5 secondes naar het venster met het tekstbalk.\n"); //doe wat er staat anders werkt het niet
 
@@ -28,6 +31,8 @@ int main() {
         keybd_event( VkKeyScan(spam), 0x00, 0, 0); //nu gaan we die letter typen
 
         if(enter == 1) keybd_event(VK_RETURN, 0x00, 0, 0); //voor het geval dat er enters moesten zijn, dan worden die erbij gezet
+
+        if(langzaam == 1) Sleep(1000); //voor als langzame modus aan staat
 
     }
 
