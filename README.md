@@ -2,7 +2,7 @@
 Totaal geen spambot hoor. Nee het lijkt maar zo! Ook is het alleen voor educatieve doeleinden bedoeld!
 Ik zie het liever gewoon als een handige lettertyper waarmee je heel veel letters kan typen.
 
-Als je het ding start, dan vraagt het vier informatie dingen van je.
+Als je het ding start, dan vraagt het vijf informatie dingen van je.
 
 1. Hoe vaak dat ding moet typen. (Dit is hoe vaak die letter wordt getypt.)
 2. Welke letter moet er worden getypt. (Dit is welke letter wordt getypt.)
